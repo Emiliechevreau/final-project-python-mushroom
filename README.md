@@ -25,6 +25,8 @@ The ability to quickly and accurately identify mushrooms is important, especiall
 
 
 
+
+
 **The diferent steps in our project :**
 
 1. find a dataset of mushroom in "Mushroom world"
@@ -37,6 +39,9 @@ The ability to quickly and accurately identify mushrooms is important, especiall
 8. predict with an image from the dataset given and add a precision rate to know the eadibility
 
    
+
+
+
 **The problems encountered in our project :**
 
 1. with our dataset, we only had 6000 images so we had to modify theses images by the zoom, rotation and create more and more of images to have a better result with our IA during the CNN. 
