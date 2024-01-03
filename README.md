@@ -24,7 +24,8 @@ The application will provide a toxicity percentage for the collected mushroom.
 The ability to quickly and accurately identify mushrooms is important, especially in the wilderness. If you are lost or stranded in the wilderness, it is important to be able to find food. However, you also need to be able to identify edible mushrooms and avoid toxic mushrooms. 
 
 
-The diferent steps in our project : 
+
+**The diferent steps in our project :**
 
 1. find a dataset of mushroom in "Mushroom world"
 2. scrap information about species, edibility (binary classify as 0=eadible and 1=poisonous) and the link to the images
@@ -36,7 +37,7 @@ The diferent steps in our project :
 8. predict with an image from the dataset given and add a precision rate to know the eadibility
 
    
-The problems in our project :
+**The problems encountered in our project :**
 
 1. with our dataset, we only had 6000 images so we had to modify theses images by the zoom, rotation and create more and more of images to have a better result with our IA during the CNN. 
 2. Large size for all images during encoding
