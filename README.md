@@ -29,7 +29,7 @@ The ability to quickly and accurately identify mushrooms is important, especiall
 
 **The diferent steps in our project :**
 
-1. find a dataset of mushroom in "Mushroom world"
+1. find a dataset of mushroom in "Mushroom world" https://www.mushroom.world
 2. scrap information about species, edibility (binary classify as 0=eadible and 1=poisonous) and the link to the images
 3. create fake images to have a large sample
 4. fetch images from URL in dataframe -> convert the images to base 64 and encode it to put in a list
