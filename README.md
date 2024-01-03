@@ -1,14 +1,28 @@
 # final-project-python-mushroom
 
-It can be challenging to determine whether a mushroom is edible or toxic without specialized knowledge. Indeed, it is crucial to assess the toxicity of mushrooms before consuming them.
-Currently, there is a list of 140,000 documented mushroom species, making it difficult to recognize each variety. Distinguishing between toxic and non-toxic mushrooms can be a risky task, so it is 
-the responsibility of our project to address this. During our initial research, we stopped at simple existing datasets on sites like Kaggle and others. However, none of these datasets contained images of mushrooms, 
-so we had to adapt and look to another solution And that's how our research led us to the website : mushroom world.
+**Introduction**
+
+Mushrooms are a diverse and fascinating group of organisms that can be found in a wide variety of habitats. They can be edible, toxic, or even psychoactive. It can be challenging to determine whether a mushroom is edible or toxic without specialized knowledge. Indeed, it is crucial to assess the toxicity of mushrooms before consuming them. Currently, there is a list of 140,000 documented mushroom species, making it difficult to recognize each variety. Distinguishing between toxic and non-toxic mushrooms can be a risky task, so it is the responsibility of our project to address this. 
+
+ 
+**Existing Solutions**
+
+There are a number of existing applications that can be used to identify mushrooms. However, these applications typically focus on identifying the species of mushroom. This is a challenging task, as there are many factors that can affect the appearance of a mushroom, including its maturity, odor, season, and environment. As a result, these applications can often provide inaccurate or incomplete identifications. 
+
+ **Our Approach**
+
+Our approach to mushroom identification is different from existing applications. We focus on identifying whether a mushroom is edible or toxic, rather than the species of mushroom. This approach is more accurate and reliable, as it is less affected by the factors that can change the appearance of a mushroom. 
 
 **How can one determine the toxicity or edibility of a mushroom based on a simple photo of its physical characteristics ?**
 
+We achieve this by using a deep learning model that is trained on a dataset of images of edible and toxic mushrooms. The model learns to identify the features that distinguish edible mushrooms from toxic mushrooms. This allows the model to accurately identify mushrooms, even if they are not in their ideal condition.
+
 We aim to help users visually distinguish the differences and similarities between an edible mushroom and a toxic one by a binary method. 
 The application will provide a toxicity percentage for the collected mushroom.
+
+**WHY?** 
+The ability to quickly and accurately identify mushrooms is important, especially in the wilderness. If you are lost or stranded in the wilderness, it is important to be able to find food. However, you also need to be able to identify edible mushrooms and avoid toxic mushrooms. 
+
 
 The diferent steps in our project : 
 
